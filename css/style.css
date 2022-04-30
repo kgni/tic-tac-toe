@@ -7,8 +7,15 @@ body {
 }
 
 h1 {
-	font-size: 2.4rem;
+	font-size: 3.6rem;
 	margin-bottom: 2.4rem;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+p {
+	margin-bottom: 2.4rem;
+	font-size: 2.4rem;
 }
 
 .grid {
@@ -23,6 +30,7 @@ h1 {
 }
 
 .grid-child {
+	font-size: 7.2rem;
 	display: flex;
 	justify-content: center;
 	align-items: center;
